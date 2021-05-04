@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    background: pink;
+    background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px
+}
+
+h1 {
+    text-shadow: 2px 2px;
+    font-size: 2px;
+}
+
+p {
+    font-size: 18px;
+}
+
+#bio {
+    background: orange;
+
+}
+
+#style {
+    font-family: roboto;
+}
+
+#Abbb {
+    background: lightgreen;
+}
+
+#chhhh {
+    background: lightblue;
+
+}
+
+#innnn {
+    background: white;
+
+}
+
+#picture {
+    width: 400px;
+    height: 400px;
+    transition: transform .2s;
+    border: 10px solid;
+    
+}
+
+#imm{
+    height: 400px;
+    width: 400px;
+    transition: transform .2s;
+    border: 10px solid;
+}
